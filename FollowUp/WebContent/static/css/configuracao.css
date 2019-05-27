@@ -1,0 +1,209 @@
+@charset "ISO-8859-1";
+
+/*--------Atendimento------------*/
+
+div#atdcabecalho {
+	background-color: white;
+	text-align: center;
+	font-size: 16px;
+	border: 2px solid #006400;
+	border-radius: 25px;
+	padding: 1em;
+	width: 100%;
+}
+
+div#atdtitulo {
+	text-align: center;
+	font-size: 20px;
+}
+
+div#atdprimeirocliente {
+	background-color: white;
+	font-size: 16px;
+	border: 2px solid #006400;
+	border-radius: 25px;
+	width: 100%;
+	padding: 1em;
+}
+
+div#atddados {
+	background-color: white;
+	border: 2px solid #006400;
+	border-radius: 25px;
+	font-size: 16px;
+	width: 100%;
+	padding: 1em;
+}
+
+.atdhistorico {
+	background-color: white;
+	border: 2px solid #006400;
+	border-radius: 25px;
+	font-size: 16px;
+	width: 100%;
+	padding: 1em;
+}
+
+td {
+	text-align: center;
+}
+
+.btnatd {
+	text-align: center;
+	position: absolute;
+	margin-left: 80%;
+	margin-top: -7%;
+	font-family: arial;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: 700;
+	border: none;
+	padding: 10px;
+	cursor: pointer;
+	display: inline-block;
+	text-decoration: none;
+	width: 15%;
+	border-radius: 10px;
+}
+
+.btnatd {
+	background: #006400;
+	color: black;
+}
+
+.btnatd:hover {
+	background: #008000;
+	color: black;
+}
+
+.btnatd3 {
+	text-align: center;
+	position: absolute;
+	margin-left: 80%;
+	margin-top: -4%;
+	font-family: arial;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: 700;
+	border: none;
+	padding: 10px;
+	cursor: pointer;
+	display: inline-block;
+	text-decoration: none;
+	width: 15%;
+	border-radius: 10px;
+}
+
+.btnatd3 {
+	background: #006400;
+	color: black;
+}
+
+.btnatd3:hover {
+	background: #008000;
+	color: black;
+}
+
+/*--------Esqueceu Senha----------*/
+
+div#cabecalhoesqueceu {
+	background-color: white;
+	margin-left: 23%;
+	margin-top: 18%;
+	text-align: center;
+	border: 3px solid black;
+	border-radius: 50px;
+	padding: 10px;
+	font-size: 16px;
+	width: 50%;
+}
+
+div#tituloesqueceu {
+	font-size: 20px;
+}
+
+.btns {
+	position: absolute;
+	margin-left: 42%;
+	margin-top: 2%;
+	font-family: arial;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: 700;
+	border: none;
+	border: none;
+	padding: 10px;
+	cursor: pointer;
+	display: inline-block;
+	text-decoration: none;
+	width: 15%;
+	border-radius: 10px;
+}
+
+.btns-blues {
+	background: #006400;
+	color: #fff;
+}
+
+.btns-blues:hover {
+	background: #008000;
+	color: #fff;
+}
+
+/*---------Tela Login-----------*/
+
+div#titulologin {
+	font-size: 20px;
+}
+
+div#acessos {
+	background-color: white;
+	margin-left: 37%;
+	margin-top: 20%;
+	text-align: center;
+	border: 3px solid black;
+	border-radius: 50px;
+	font-size: 12px;
+	width: 25%;
+	padding: 10px;
+	bac
+}
+
+.btn {
+	text-align: center;
+	position: absolute;
+	margin-left: 43%;
+	font-family: arial;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: 700;
+	border: none;
+	padding: 10px;
+	cursor: pointer;
+	display: inline-block;
+	text-decoration: none;
+	width: 15%;
+	border-radius: 10px;
+}
+
+.btn-blue {
+	background: #006400;
+	color: #fff;
+}
+
+.btn-blue:hover {
+	background: #008000;
+	color: #fff;
+}
+
+#footer {
+	text-align: center;
+	margin-top: 3%;
+	border-top: 1px solid #CCC;
+	border-radius: 25px;
+	background: #006400;
+	color: white;
+	width: 100%;
+	padding: 20px;
+	font-size: 25px;
+}
